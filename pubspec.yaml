@@ -1,0 +1,30 @@
+name: todo_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_it: ^7.6.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.18.0
+  time_picker_sheet: ^0.0.2+1
+  uuid: ^3.0.7
+  easy_localization: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translations/

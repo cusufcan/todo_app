@@ -1,0 +1,9 @@
+{
+    "title": "What will you do today?",
+    "empty_task_list": "Add a task",
+    "add_task": "Task name",
+    "hour": "Hour",
+    "minute": "Minute",
+    "save": "Save",
+    "cannot_find": "We couldn't find anything"
+}
